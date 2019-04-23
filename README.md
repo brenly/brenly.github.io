@@ -5,6 +5,6 @@ This is my portfolio site designed to showcase various things I've written and t
 Planned: 
 1. Pixelated terminal Instagram feed
 2. Zalgo color fader
-3. employee database grep script
+3. Nonprofit site script
 4. ... ?!?!
 5. ?!!?!?!?!? :(
