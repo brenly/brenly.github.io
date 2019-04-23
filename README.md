@@ -1,3 +1,10 @@
 # brenly.github.io
-zalgo_html_color_fader
-this is a classic 90's html color fader that works with zalgo text! have fun awakening the hive mind!
+
+This is my portfolio site designed to showcase various things I've written and to flex my website building skills. The goal is to make this visually interesting while containing some clever dynamic items.
+
+Planned: 
+Pixelated terminal Instagram feed
+Zalgo color fader
+3 ... ?
+4 ... ?!?!?!
+5 ?!!?!?!?!? :(
